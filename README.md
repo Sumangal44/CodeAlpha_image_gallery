@@ -4,7 +4,11 @@ A sleek and modern image gallery web app built using HTML, CSS, and JavaScript. 
 
 🚀 **Live Demo**: [code-alpha-image-gallery-three.vercel.app](https://code-alpha-image-gallery-three.vercel.app/)
 
+<<<<<<< HEAD
 ![Screenshot](./codealpha_screenshot1)
+=======
+![Screenshot](./codealpha_screenshot1.png)
+>>>>>>> d1cff5accf6932d94d49b5586f2b43cba10ce831
 
 ---
 
